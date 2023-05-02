@@ -5,4 +5,5 @@
 .pageTitle {
     background-image: url(https://cdn.jsdelivr.net/gh/Carve/ratflix-styling@main/ratflix_logo.png);
     content: "";
+    height: 42px;
 }
