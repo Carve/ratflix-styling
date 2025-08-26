@@ -3,3 +3,7 @@ html body h3.pageTitle {
     background-image: url(https://cdn.jsdelivr.net/gh/Carve/ratflix-styling@main/ratflix_logo.png);
     content: "";
 }
+
+/* Other styling */
+@import url("https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/public-icon.css");
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/presets/monochromic_preset.css');
